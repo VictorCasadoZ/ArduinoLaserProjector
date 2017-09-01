@@ -1,0 +1,2 @@
+# ArduinoLaserProjector
+This is a Laser XY Scanner projector made with an Arduino Uno, the Adafruit Motor Shield V2, a Bluetooth HC-06, a laser diode and two steppers motor to make the galvometer.  You can control it by USB to your computer or by Bluetooth if your computer are able, or by an Android App.  The original Laser project was made by StanleyProjects: https://www.youtube.com/channel/UCx1xiWx0sUH85QdtcfkqU9w  I redesigned the Windows UI and developed the Android App.
